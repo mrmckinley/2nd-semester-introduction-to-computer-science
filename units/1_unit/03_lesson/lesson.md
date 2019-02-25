@@ -28,7 +28,7 @@ Students will be able to...
 2. **Printing Lesson/Lab Part 1**
 	*	Explain that the file is the center section of the screen. Sometimes this is called a **script**.
 		* Reminder questions: how do you save/run a file? What happened when you ran the file from the do now?
-		* Explain the purpose of the `print` statement, which will print whatever is in between the parentheses to the console.
+		* Explain the purpose of the `print` function, which will print whatever is in between the parentheses to the console.
 			* Explain to students that what appears on the console is called **output**
 		* Talk to students about reading a program and the order in which the computer executes statements. 
 	* Ask students how they would print the following:
@@ -68,7 +68,7 @@ Students will be able to...
 	* Talk about differences between SNAP! and Python for declaring variables.
 
 ### Accommodation/Differentiation
-If students are moving quickly, ask students to come up with a way to print two lines with only one print statement. Allow for students to Google the `\n` character. 
+If students are moving quickly, ask students to come up with a way to print two lines with only one print function. Allow for students to Google the `\n` character. 
 
   
 
